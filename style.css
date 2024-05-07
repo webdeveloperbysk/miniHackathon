@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: hidden;
+}
+.header{
+    background-color: white;
+}
+#banner{
+    height: 80vh;
+    width: 100%;
+    margin-left: 33%;
+}
+
+.container h1{
+font-weight: 500;
+
+}
+.container p{
+    padding: 10px 20px;
+}
